@@ -16,6 +16,6 @@ Un proyecto desarrollado en App Lab que implementa el uso de Pilas (Stacks) y Co
 https://studio.code.org/projects/applab/a529249f-a171-4fde-a768-ae8a88e74d50/edit
 
 ## Contacto
-* **Email:**claudia.menjivar.docente@clases.edu.sv
-* **LinkedIn:**(Su creación la he programado a futuro)
-*
+* **Email:** claudia.menjivar.docente@clases.edu.sv
+* **LinkedIn:** (Su creación la he programado a futuro)
+
